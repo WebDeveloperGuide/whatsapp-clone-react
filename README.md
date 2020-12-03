@@ -4,3 +4,7 @@ Build a WhatsApp Clone with React JS and FireBase
 
 - Add Chat data to firebase
 
+
+Credit: Clever Programmer (Rocking Guys)
+
+
