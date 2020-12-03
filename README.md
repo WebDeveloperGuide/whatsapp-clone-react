@@ -1,9 +1,13 @@
-# Build a WhatsApp Clone with React JS and FireBase
+# Build a WhatsApp Clone with React JS, FireBase and Google Authentication
 
-- Create WhatsApp Like App Design
-
-- Add Chat data to firebase
-
+# Tech Stack
+- React js
+- Firebase Firestore Realtime DB
+- Material UI
+- React Router
+- React Context API
+- Redux
+- Google Authentication
 
 Credit: Clever Programmer (Rocking Guys)
 
